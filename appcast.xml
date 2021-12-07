@@ -4,19 +4,20 @@
         <title>Yattee</title>
         <item>
             <title>1.2</title>
-            <pubDate>Tue, 07 Dec 2021 23:26:10 +0100</pubDate>
+            <pubDate>Wed, 08 Dec 2021 00:17:24 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>9</sparkle:version>
             <description><![CDATA[
                 <h2>New Features</h2>
                 <ul>
-                <li>Add updates framework for macOS app</li>
+                <li>Add updates framework</li>
+                <li>Other minor changes</li>
                 </ul>
             ]]>
             </description>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/repos/files/7672000/Yattee-1.2-beta.7.zip" length="5507296" type="application/octet-stream" sparkle:edSignature="7cqutZJ//FZC+OxnKlVUuyxW4f8B51zfKAzI48aANn1mZ5I0t5+RasaKZvstp5el06vzM/tc6fm50ENPNnpZBw=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.2-rc/Yattee-1.2-rc-macOS.zip" length="5507506" type="application/octet-stream" sparkle:edSignature="VeAKkemgJulBDTD2LIO0P+loFFMt6HHggIbPr4gJFZcGJ6yrB3udLJkdfZJuZcyMM3Ed95WV1+gZB6vmasGbCA=="/>
         </item>
     </channel>
 </rss>

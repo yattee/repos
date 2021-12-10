@@ -1,0 +1,27 @@
+{
+  "name": "Yattee",
+  "identifier": "stream.yattee",
+  "sourceURL": "https://repos.yattee.stream/alt/apps.json",
+  "apps": [
+    {
+      "name": "Yattee",
+      "bundleIdentifier": "stream.yattee.app",
+      "developerName": "Yattee",
+      "subtitle": "Video player for Invidious and Piped",
+      "version": "1.2",
+      "versionDate": "2021-12-10",
+      "versionDescription": "- Support for iOS 14\nComments for videos (for Piped)\n  - Select instance to load comments from or disable (Services settings)\n  - Replies and pagination\n  - Open author channel with tap and hold\n  - Display comments in separate tab or below video description (Services settings)\nNew, custom UI for Search\n  - Tapping suggestions updates text field\n  - Tap top suggestion to search\n  - Improved layout\nSettings\n  - Enable/disable storing recent videos and channels\n  - Show/hide sections (Favorites, Popular, Trending...)\nMinor improvements and fixes\n  - Tap and hold related videos to queue\n  - Tap and hold video title in player to close current video",
+      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.2/Yattee-1.2-iOS.ipa",
+      "localizedDescription": "Video player with support for Invidious and Piped built for iOS, tvOS and macOS.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
+      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
+      "tintColor": "21335C",
+      "size": 2082672,
+      "beta": false,
+      "screenshotURLs": [
+        "https://r.yattee.stream/screenshots/iOS/trending.png",
+        "https://r.yattee.stream/screenshots/iOS/player.png",
+        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+      ]
+    }
+  ]
+}

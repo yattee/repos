@@ -4,20 +4,41 @@
         <title>Yattee</title>
         <item>
             <title>1.2</title>
-            <pubDate>Wed, 08 Dec 2021 00:17:24 +0100</pubDate>
-            <sparkle:channel>beta</sparkle:channel>
+            <pubDate>Fri, 10 Dec 2021 21:24:52 +0100</pubDate>
             <sparkle:version>9</sparkle:version>
             <description><![CDATA[
-                <h2>New Features</h2>
+                <h2>What's changed</h2>
                 <ul>
-                <li>Add updates framework</li>
-                <li>Other minor changes</li>
+                <li>Support for macOS Big Sur</li>
+                <li>Comments for videos (for Piped)</li>
+                <ul>
+                    <li>Select instance to load comments from or disable (Services settings)</li>
+                    <li>Replies and pagination</li>
+                    <li>Open author channel with right click</li>
+                    <li>Display comments in separate tab or below video description (Services settings)</li>
+                </ul>
+                <li>New, custom UI for Search</li>
+                <ul>
+                    <li>Tapping suggestions updates text field</li>
+                    <li>Tap top suggestion to search</li>
+                </ul>
+                <li>Settings</li>
+                <ul>
+                    <li>Enable/disable storing recent videos and channels</li>
+                    <li>Show/hide sections (Favorites, Popular, Trending...)</li>
+                </ul>
+                <li>Minor improvements and fixes</li>
+                <ul>
+                    <li>Right click related videos to queue</li>
+                    <li>Right click video title in player to close current video</li>
+                </ul>
+                <li>Updates framework and setting for receiving beta updates</li>
                 </ul>
             ]]>
             </description>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.2-rc/Yattee-1.2-rc-macOS.zip" length="5507506" type="application/octet-stream" sparkle:edSignature="VeAKkemgJulBDTD2LIO0P+loFFMt6HHggIbPr4gJFZcGJ6yrB3udLJkdfZJuZcyMM3Ed95WV1+gZB6vmasGbCA=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.2/Yattee-1.2-macOS.zip" length="5507506" type="application/octet-stream" sparkle:edSignature="VeAKkemgJulBDTD2LIO0P+loFFMt6HHggIbPr4gJFZcGJ6yrB3udLJkdfZJuZcyMM3Ed95WV1+gZB6vmasGbCA=="/>
         </item>
     </channel>
 </rss>

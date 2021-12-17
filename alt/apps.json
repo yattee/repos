@@ -22,6 +22,26 @@
         "https://r.yattee.stream/screenshots/iOS/player.png",
         "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
       ]
+    },
+    {
+      "name": "Yattee",
+      "bundleIdentifier": "stream.yattee.app.beta",
+      "developerName": "Yattee",
+      "subtitle": "Video player for Invidious and Piped",
+      "version": "1.3",
+      "versionDate": "2021-12-17",
+      "versionDescription": "- Added channel thumbnail in player. Tap and hold to open\n- Video will start playing after intro instead of starting and then seeking to end of intro (if SponsorBlock is enabled)\n- Show errors when handling user playlists (with Invidious)\n- Add option to display channel subscriptions count\n- Minor changes to comments layout\n- Other minor fixes",
+      "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.3-beta.1/Yattee-1.3-beta.1-iOS.ipa",
+      "localizedDescription": "Video player with support for Invidious and Piped built for iOS, tvOS and macOS.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
+      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
+      "tintColor": "21335C",
+      "size": 2104335,
+      "beta": true,
+      "screenshotURLs": [
+        "https://r.yattee.stream/screenshots/iOS/trending.png",
+        "https://r.yattee.stream/screenshots/iOS/player.png",
+        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+      ]
     }
   ]
 }

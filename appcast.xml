@@ -40,5 +40,29 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yattee/yattee/releases/download/v1.2/Yattee-1.2-macOS.zip" length="5507506" type="application/octet-stream" sparkle:edSignature="VeAKkemgJulBDTD2LIO0P+loFFMt6HHggIbPr4gJFZcGJ6yrB3udLJkdfZJuZcyMM3Ed95WV1+gZB6vmasGbCA=="/>
         </item>
+        <item>
+            <title>1.3</title>
+            <pubDate>Fri, 17 Dec 2021 21:35:10 +0100</pubDate>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>10</sparkle:version>
+            <description><![CDATA[
+                <h2>What's changed</h2>
+                <ul>
+                    <li>Added channel thumbnail in player. Right click to open</li>
+                    <li>
+                        Video will start playing after intro instead of starting and then
+                        seeking to end of intro (if SponsorBlock is enabled)
+                    </li>
+                    <li>Show errors when handling user playlists (with Invidious)</li>
+                    <li>Add option to display channel subscriptions count</li>
+                    <li>Minor changes to comments layout</li>
+                    <li>Other minor fixes</li>
+                </ul>
+            ]]>
+            </description>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3-beta.1/Yattee-1.3-beta.1-macOS.zip" length="5551588" type="application/octet-stream" sparkle:edSignature="XJJ5FT8te9uE/1cu1Bd/XvR7w0rWqM89ur/bS+vs7XGTViITrY23/J/TQbVajru8FCrYs94MjqAWbXkGpV0KBw=="/>
+        </item>
     </channel>
 </rss>

@@ -42,37 +42,29 @@
         </item>
         <item>
             <title>1.3</title>
-            <pubDate>Sun, 02 Jan 2022 22:41:21 +0100</pubDate>
+            <pubDate>Fri, 07 Jan 2022 00:30:35 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>13</sparkle:version>
+            <sparkle:version>14</sparkle:version>
             <description><![CDATA[
                 <h2>What's changed</h2>
                 <ul>
-                    <li>Added "Play/Shuffle All" buttons to channel/user playlists</li>
-                    <li>Added option to show/hide history of played videos in player view</li>
-                    <li>Added option to show/hide username in accounts switcher button</li>
-                    <li>Added options for watched videos:</li>
-                    <ul>
-                        <li>Use both badge/decreased opacity for marking videos</li>
-                        <li>Select badge color or make it dependent on system color scheme</li>
-                        <li>Reset watching status when playing video again</li>
-                    </ul>
-                    <li>Added "Toggle Sidebar" button</li>
-                    <li>Added "Check for updates" button in Updates settings</li>
-                    <li>Improved performance when loading video details</li>
-                    <li>Improved search suggestions layout by separating buttons to start search for query and append text</li>
-                    <li>Fixed issue with displaying video time in system playback controls</li>
-                    <li>Other minor changes</li>
-                </ul>
-                <h2>Known Issues</h2>
-                <ul>
-                    <li>Player window might not get focused correctly when Settings are opened</li>
+                    <li>Added infinite scroll to Search</li>
+                    <li>Added infinite scroll to Comments</li>
+                    <li>Restructured Settings</li>
+                    <li>Added Help section in Settings</li>
+                    <li>Added help link for adding Invidious account</li>
+                    <li>Added refresh action to Subscriptions/Popular/Trending (CMD+R)</li>
+                    <li>Added setting to disable thumbnails rounding</li>
+                    <li>Improved windows handling, fixed focusing, faster opening player</li>
+                    <li>Improved search suggestion buttons area</li>
+                    <li>Backported blur effect to thumbnail badges/player controls for mac OS Big Sur</li>
+                    <li>Other minor improvements</li>
                 </ul>
             ]]>
             </description>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3-beta.4/Yattee-1.3-beta.4-macOS.zip" length="5660281" type="application/octet-stream" sparkle:edSignature="44X40Ir6CvllqouMzvH8pjRquGDDuAMILYG7IQN9KjKrp5U9QSkwsagS41Q2Qzh7NCgCX8UkHKUwD6Nj+u/aDw=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3-beta.5/Yattee-1.3-beta.5-macOS.zip" length="6087574" type="application/octet-stream" sparkle:edSignature="L2K6wCyQOnCzNIq2PO47iArS58Dhi6aV1cUdNQYCwht38Un9OwzJnm7zS7LxK/oHvZRwPeNn/o5FVw7lDxyYAg=="/>
         </item>
     </channel>
 </rss>

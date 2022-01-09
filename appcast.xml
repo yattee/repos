@@ -42,22 +42,21 @@
         </item>
         <item>
             <title>1.3</title>
-            <pubDate>Fri, 07 Jan 2022 22:26:20 +0100</pubDate>
+            <pubDate>Sun, 09 Jan 2022 17:01:30 +0100</pubDate>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>15</sparkle:version>
+            <sparkle:version>16</sparkle:version>
             <description><![CDATA[
                 <h2>What's changed</h2>
                 <ul>
-                    <li>Fixed Refresh button which was displaying in videos listing background</li>
-                    <li>Added details of SponsorBlock categories</li>
-                    <li>Decreased size of thumbnails badges</li>
+                    <li>Fixed search suggestion layout when query is corrected by server</li>
+                    <li>Fixed restoring player queue when restarting the app</li>
                     <li>Other minor improvements</li>
                 </ul>
             ]]>
             </description>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3-beta.6/Yattee-1.3-beta.6-macOS.zip" length="6092729" type="application/octet-stream" sparkle:edSignature="9ntvLAy7oJmvB6TGyOOy08ecgVOlIYJmbTycQ6CUXsHONkTMWFM+xYehoB5xRrTmwTlo1CwQgb5+DkCMWh+MDg=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3-rc/Yattee-1.3-rc-macOS.zip" length="6099612" type="application/octet-stream" sparkle:edSignature="YZAUVfqe/fNLXKYi2eEED9C2EA47HiOJ1UKaeD46HRbU68oESXtl2wvWPxyAreofqmDDVxpoWS40bZtsHKY0BQ=="/>
         </item>
     </channel>
 </rss>

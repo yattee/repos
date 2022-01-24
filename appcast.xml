@@ -3,11 +3,14 @@
     <channel>
         <title>Yattee</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Thu, 20 Jan 2022 23:32:19 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <title>1.3.1</title>
+            <pubDate>Mon, 24 Jan 2022 22:46:24 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
             <description><![CDATA[
-                <h2>What's changed</h2>
+                <h2>What's changed (v1.3.1)</h2>
+                <li>Fixed selecting stream quality</li>
+
+                <h2>What's changed (v1.3)</h2>
                 <li>Improved watch history</li>
                 <ul>
                     <li>Display progress of watching while browsing videos lists</li>
@@ -46,9 +49,9 @@
                 <li>Other fixes and improvements</li>
             ]]>
             </description>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3/Yattee-1.3-macOS.zip" length="6101744" type="application/octet-stream" sparkle:edSignature="8CSUlBmOesRptumj69RxYhqLj9GK4GCaZ7lexwLgOfxx5qyXp6cvZ6KswdNtlnpPE9CwwHpuPWmsppPxDaBhCQ=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.1/Yattee-1.3.1-macOS.zip" length="6103335" type="application/octet-stream" sparkle:edSignature="MvJLE/EX16Nc3lBlCDvjkbTqQg9rvuwq5Knq5sBwnTyfmt0CmfM+unbvzVzhof/iCKxvPABo7LUtwUmsi30kBw=="/>
         </item>
     </channel>
 </rss>

@@ -3,10 +3,13 @@
     <channel>
         <title>Yattee</title>
         <item>
-            <title>1.3.1</title>
-            <pubDate>Mon, 24 Jan 2022 22:46:24 +0100</pubDate>
-            <sparkle:version>18</sparkle:version>
+            <title>1.3.2</title>
+            <pubDate>Sat, 26 Feb 2022 11:18:16 +0100</pubDate>
+            <sparkle:version>19</sparkle:version>
             <description><![CDATA[
+                <h2>What's changed (v1.3.2)</h2>
+                <li>Fixed issue which caused playlist not to open when history saving is disabled</li>
+
                 <h2>What's changed (v1.3.1)</h2>
                 <li>Fixed selecting stream quality</li>
 
@@ -49,9 +52,9 @@
                 <li>Other fixes and improvements</li>
             ]]>
             </description>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.1/Yattee-1.3.1-macOS.zip" length="6103335" type="application/octet-stream" sparkle:edSignature="MvJLE/EX16Nc3lBlCDvjkbTqQg9rvuwq5Knq5sBwnTyfmt0CmfM+unbvzVzhof/iCKxvPABo7LUtwUmsi30kBw=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.2/Yattee-1.3.2-macOS.zip"  length="6103321" type="application/octet-stream" sparkle:edSignature="fAswwlX4JTgzXHtOYt0JttmH6uhIcc82xLb1ST3yW11BopwTl8uboWfP6TOYFwQrLLQQc7VL3oBhZtdFOt95Ag=="/>
         </item>
     </channel>
 </rss>

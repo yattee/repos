@@ -56,5 +56,39 @@
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.2/Yattee-1.3.2-macOS.zip"  length="6103321" type="application/octet-stream" sparkle:edSignature="fAswwlX4JTgzXHtOYt0JttmH6uhIcc82xLb1ST3yW11BopwTl8uboWfP6TOYFwQrLLQQc7VL3oBhZtdFOt95Ag=="/>
         </item>
+        <item>
+            <title>1.4.alpha.1</title>
+            <pubDate>Sun, 20 Mar 2022 22:56:11 +0100</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:channel>beta</sparkle:channel>
+            <description><![CDATA[
+                <h2>What's new</h2>
+                <li><strong>New player</strong> built with <a href="https://mpv.io/">MPV</a>
+                <ul>
+                    <li><strong>4K</strong> playback support</li>
+                    <li>Much better at keeping playing high quality adaptive streams</li>
+                </ul>
+                <li><strong>New player controls</strong></li>
+                <li><strong>Player gestures</strong>: tap twice on the left/center/right of player to go back 10s/play-pause/go forward 10s</li>
+                <li>Dislikes counter from <a href="https://returnyoutubedislike.com/">Return YouTube Dislike</a> - disabled by default, to enable in Player settings</li>
+                <li>Fixed parsing video date in subscriptions</li>
+                <li>Other minor changes</li>
+
+                <h2>What's missing (comparing to v1.3)</h2>
+                <li>Picture-in-Picture and AirPlay</li>
+                <li>Subtitles</li>
+                <li>Playback rate change</li>
+
+                <h2>Known issues</h2>
+                <li>Player queue may not work properly</li>
+                <li>Video may close prematurely</li>
+                <li>Multiple seeks may cause crash</li>
+                <li>Some FPS may be dropped when presenting controls</li>
+            ]]>
+            </description>
+            <sparkle:shortVersionString>1.4.alpha.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.4-alpha.1/Yattee-1.4-alpha.1-macOS.zip" length="38963032" type="application/octet-stream" sparkle:edSignature="6jWhKf+6d0V137w0upSfsYep77CEUhsGbzfdqH4qZVfrdV0Xd+7fYCFDFlKrD/IdRKtLA05Imcp3aSDZMOJkBg=="/>
+        </item>
     </channel>
 </rss>

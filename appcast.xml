@@ -3,10 +3,14 @@
     <channel>
         <title>Yattee</title>
         <item>
-            <title>1.3.4</title>
-            <pubDate>Sun, 22 May 2022 22:25:14 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
+            <title>1.3.5</title>
+            <pubDate>Wed, 17 Aug 2022 20:26:03 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
             <description><![CDATA[
+                <h2>What's changed (v1.3.5)</h2>
+                <li>Fixed reported crash</li>
+                <li>Fixed issue where "Add to Playlist" window cannot be closed when there is no playlists</li>
+
                 <h2>What's changed (v1.3.4)</h2>
                 <li>Added support for user playlists with Piped accounts</li>
                 <li>Channel subscriber count is retrieved without additional query with Piped</li>
@@ -67,9 +71,9 @@
                 <li>Other fixes and improvements</li>
             ]]>
             </description>
-            <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.4/Yattee-1.3.4-macOS.zip" length="6182221" type="application/octet-stream" sparkle:edSignature="rdfNZP4Ly8GKJWXgXY4HkLZoAeRFiBEGjpCQV5arktYCJBjZAQ8eaFVN2r8ERyGdZemXw5L98Pu2VX05GNjjCQ=="/>
+            <enclosure url="https://github.com/yattee/yattee/releases/download/v1.3.5/Yattee-1.3.5-macOS.zip" length="6222016" type="application/octet-stream" sparkle:edSignature="oUEqqKNmQgSR1XHp4ZUgrUht5j8aRGVgMLH/95VTMmx2gJR0+hXD/ollfgUaIEiya/C4pyoGNQJHmSZVTXkeDQ=="/>
         </item>
         <item>
             <title>1.4.alpha.4</title>
